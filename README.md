@@ -148,10 +148,3 @@ The main purpose of this project is to:
 * Analyze sales and logistics performance
 * Improve data visualization and dashboard design skills
 
----
-
-# Notes
-
-* The dashboard design was customized manually.
-* Dark neon UI style was used to make the visuals cleaner and more modern.
-* Some visuals were optimized for better readability and user experience.
